@@ -1,6 +1,6 @@
 {
-  "name": "react-redux-basic-draw",
-  "version": "0.1.0",
+  "name": "react-basic-draw-presentation",
+  "version": "0.1.1",
   "main": "index.js",
   "dependencies": {
     "react": "^16.10.2",
