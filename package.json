@@ -1,6 +1,6 @@
 {
   "name": "react-basic-draw-presentation",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "main": "index.js",
   "dependencies": {
     "react": "^16.10.2",
